@@ -5,7 +5,7 @@ Create a site for your own personal branding. Keep in mind this is an HTML exerc
 Content and Technical Requirements
 
 Title - make it meaningful.
-Header element <h1> - This is the main headline; include your name and what this page is.
+Header element - This is the main headline; include your name and what this page is.
 Photo
 Article element containing your bio
 Article element with links to resources or sites you like
