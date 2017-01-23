@@ -53,6 +53,8 @@ footer.page-footer {
 
 /* MY CUSTOM CSS: */
 
+/* I CAN'T SEEM TO FIGURE OUT HOW TO OVERRIDE EXISTING STYLES TO CHANGE THE H1 COLOR TO: color: #119888; */
+
 .quotes {
   color: #400909;
   background-color: #e8e3e3;
