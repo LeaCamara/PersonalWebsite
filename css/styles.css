@@ -62,3 +62,9 @@ footer.page-footer {
   opacity: .85;
   font-size: .1em;
 }
+
+#profile-photo {
+  border: 2px solid darkgray;
+  border-radius: 25px;
+  float: left;
+}
