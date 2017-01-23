@@ -14,7 +14,6 @@ Footer element with email and professional social media links; Github, twitter, 
 Semantic mark-up for all major elements.
 Validate your html page with W3 validator: https://validator.w3.org/
 Appropriate folder structure: images, css.
-Notes
 
 Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
 Examples of semantic elements: <form>, <table>, and <article> - Clearly defines the content.
