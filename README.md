@@ -1,4 +1,5 @@
-Instructions
+Personal Website 
+Instructions:
 
 Create a site for your own personal branding. Keep in mind this is an HTML exercise, however it is also the beginning of your portfolio. We will be focusing on the HTML structure and syntax of your code. Keep styles simple.
 
@@ -14,8 +15,8 @@ Footer element with email and professional social media links; Github, twitter, 
 Semantic mark-up for all major elements.
 Validate your html page with W3 validator: https://validator.w3.org/
 Appropriate folder structure: images, css.
-Notes
 
+Notes:
 Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
 Examples of semantic elements: <form>, <table>, and <article> - Clearly defines the content.
 Color scheme - choose primary, secondary, and tertiary colors in addition to black and white. Use these colors consistently in your stylesheet.
